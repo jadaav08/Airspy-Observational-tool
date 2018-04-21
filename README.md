@@ -13,7 +13,7 @@ Run using the command below :
 
 ./AIRSPY_OBSERVATIONAL_TOOL
 
-It also works with the Spyverter but since the airspy_rx command controls the airspy only, the user has to know the frequency conversions occuring in the Spyverter and the Airspy.
+It also works with the Spyverter but since the airspy_rx command controls the airspy only, the user has to know the frequency conversions occuring in the Spyverter and the Airspy. Bias Tee must be enabled so as to power the spyverter.
 
 Functions :
 
