@@ -9,6 +9,12 @@ Compile the fortran code using the command below :
 
 gfortran -o AIRSPY_OBSERVTIONAL_TOOL AIRSPY_TOOL.F08
 
+Run using the command below :
+
+./AIRSPY_OBSERVATIONAL_TOOL
+
+It also works with the Spyverter but since the airspy_rx command controls the airspy only, the user has to know the frequency conversions occuring in the Spyverter and the Airspy.
+
 Functions :
 
 1. The airspy can be set to start sampling at a particular time in terms of delay in seconds.
