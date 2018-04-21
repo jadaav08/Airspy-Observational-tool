@@ -1,6 +1,8 @@
 # Airspy-Observational-tool
 Uses a fortran 2008 code based on the airspy_rx command.
 
+Fortran code written by Jadaav Haradhun.
+
 Please read the airspy_rx tool manual before using this code. Type 'man airspy_rx' in terminal. 
 
 The code has been tested on Ubuntu 16.04 and works well. Ensure that you have the proper gfortran library installed.
